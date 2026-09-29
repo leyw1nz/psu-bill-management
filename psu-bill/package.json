@@ -1,0 +1,52 @@
+{
+  "name": "psu-bill",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node node_modules/next/dist/bin/next dev --webpack",
+    "build": "node node_modules/next/dist/bin/next build --webpack",
+    "start": "node node_modules/next/dist/bin/next start",
+    "lint": "eslint",
+    "prisma:generate": "node node_modules/prisma/build/index.js generate",
+    "prisma:studio": "node node_modules/prisma/build/index.js studio",
+    "prisma:push": "node node_modules/prisma/build/index.js db push",
+    "prisma:pull": "node node_modules/prisma/build/index.js db pull"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.5",
+    "@mui/material": "^7.3.5",
+    "@mui/material-nextjs": "^7.3.6",
+    "@prisma/client": "^5.22.0",
+    "bcryptjs": "^2.4.3",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.4",
+    "next": "^16.1.0",
+    "nodemailer": "^7.0.11",
+    "promptpay-qr": "^0.5.0",
+    "qrcode.react": "^4.2.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-to-print": "^3.2.0",
+    "recharts": "^3.6.0",
+    "xlsx-js-style": "^1.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/bcrypt": "^6.0.0",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^20",
+    "@types/nodemailer": "^7.0.4",
+    "@types/pg": "^8.16.0",
+    "@types/qrcode.react": "^1.0.5",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "baseline-browser-mapping": "^2.9.5",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.3",
+    "prisma": "^5.22.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

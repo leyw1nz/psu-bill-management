@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-bai-jamjuree), "Bai Jamjuree", sans-serif;
+}
+
+/* Breadcrumb Styles */
+.breadcrumb-card{
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+.breadcrumb-link {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 6px 14px;
+  transition: all 0.2s ease-in-out;
+}
+
+.breadcrumb-link:hover {
+  background-color: rgba(30, 118, 227, 0.2);
+}
+
+.breadcrumb-link:hover .breadcrumb-icon,
+.breadcrumb-link:hover .breadcrumb-text {
+  color: #1565c0;
+}
+
+.breadcrumb-icon {
+  margin-right: 4px;
+  font-size: 18px;
+  color: #ffffff;
+  transition: color 0.2s ease-in-out;
+}
+
+.breadcrumb-text {
+  font-size: 0.875rem;
+  color: #ffffff;
+  font-weight: bold;
+  transition: color 0.2s ease-in-out;
+}
+
+.breadcrumb-current {
+  font-size: 0.875rem;
+  color: #0f172a;
+  font-weight: 600;
+  padding: 6px 14px;
+}

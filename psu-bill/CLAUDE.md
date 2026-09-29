@@ -1,0 +1,6 @@
+- use Material UI components and icons if possible .
+- responsive awareness
+- create or reuse Dialog instead alert for interact with end user
+- create or reuse interface in @types/index.ts
+- create or reuse service class in @services directory when fetch api
+- use psql for CRUD directly task

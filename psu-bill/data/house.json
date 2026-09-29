@@ -1,0 +1,6484 @@
+{
+  "houses": [
+    {
+      "building_no": "1",
+      "room_no": "1/02",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/03",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/04",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/05",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/06",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/07",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/08",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/09",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/10",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/11",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/12",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/13",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/14",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "1/15",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/01",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/02",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/03",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/04",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/05",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/06",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/07",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/08",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/09",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/10",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/11",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/12",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/13",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/14",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/15",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/16",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/17",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/18",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/19",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "2/20",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "3/01",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "3/02",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "3/03",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "3/04",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "3/05",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "3/06",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "3/07",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "3/08",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "3/09",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "3/10",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/01",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/02",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/03",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/04",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/05",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/06",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/07",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/08",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/09",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/10",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/11",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/12",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/13",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/14",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/15",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/16",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/17",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/18",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/19",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/20",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/21",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/22",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/23",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/24",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/25",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/26",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/27",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/28",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/29",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/30",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/31",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/32",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/33",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/34",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/35",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/36",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/37",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/38",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/39",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/40",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/41",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/42",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/43",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/44",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/45",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/46",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/47",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/48",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/49",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "1",
+      "room_no": "6/50",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.01",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.02",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.03",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.04",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.05",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.06",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.07",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.08",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.09",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.10",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.11",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.12",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.13",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.14",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.15",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.16",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.17",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.18",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.19",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.20",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.21",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.22",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.23",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.24",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.25",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.26",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.27",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.28",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.29",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.30",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.31",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.32",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.33",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.34",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.35",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.36",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.37",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.38",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.39",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.40",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.41",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.42",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.43",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.44",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.45",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.46",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.47",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.48",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.49",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "2",
+      "room_no": "พ.50",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/401",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/402",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/403",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/404",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/405",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.1/406",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/401",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/402",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/403",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/404",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/405",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.2/406",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.3/306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.4/306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.5/306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/107",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/108",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/207",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/208",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/307",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.6/308",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/107",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/108",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/207",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/208",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/307",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/308",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/401",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/402",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/403",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/404",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/405",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/406",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/407",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/408",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/501",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/502",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/503",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/504",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/505",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/506",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/507",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "3",
+      "room_no": "อ.7/508",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "107",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "108",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "109",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "110",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "111",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "112",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "113",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "114",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "115",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "116",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "117",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "118",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "119",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "120",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "121",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "122",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "123",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "124",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "125",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "207",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "208",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "209",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "210",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "211",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "212",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "213",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "214",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "215",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "216",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "217",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "218",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "219",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "220",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "221",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "222",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "401",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "402",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "403",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "404",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "405",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "A.1",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "A.2",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "A.3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "A.4",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "A.5",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "A.6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "A.7",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "A.8",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "B.1",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "B.2",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "B.3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "B.4",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "B.5",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "B.6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "B.7",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "B.8",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "C.1",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "C.2",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "C.3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "C.4",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "C.5",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "C.6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "C.7",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "C.8",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D.01",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D.03",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D.04",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D.05",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D.06",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D.07",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D.08",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/01",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/02",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/03",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/04",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/05",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/06",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/07",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/08",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/09",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/10",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/11",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/12",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/13",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/14",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/15",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/16",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/17",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/18",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/19",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/20",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/21",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/22",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/23",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/24",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/25",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/26",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/27",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/29",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/31",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/32",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/33",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/34",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/35",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "D2/37",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "E.1",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "E.2",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "E.3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "E.4",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "E.5",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "E.6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "F.1",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "F.2",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "F.3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "F.4",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "F.5",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "F.6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "G.1",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "G.2",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "G.3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "G.4",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "G5",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "G6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "H.1",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "H.2",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "H.3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "H.4",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "H.5",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "H.6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "I.1",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "I.2",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "I.3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "I.4",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "I.5",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "4",
+      "room_no": "I.6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X.2",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X.3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X.4",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X.5",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X.6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X.7",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X.8",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X.9",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X10",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X11",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X12",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X13",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X14",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X15",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X16",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X17",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "X18",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y.1",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y.2",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y.3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y.4",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y.5",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y.6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y.7",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y.8",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y.9",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y10",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y11",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y12",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y13",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y14",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y15",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y16",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y17",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y18",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y19",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y20",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y21",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y22",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y23",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y24",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y25",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y26",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y27",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y28",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y29",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y30",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y31",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y32",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y33",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y34",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y35",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Y36",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.01",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.02",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.03",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.04",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.05",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.06",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.07",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.08",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.09",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.10",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.11",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.12",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.13",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.14",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.15",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.16",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.17",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.18",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.19",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.20",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.21",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.22",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.23",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.24",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.25",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.26",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.27",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.28",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.29",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.30",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.31",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.32",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.33",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.34",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.35",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "5",
+      "room_no": "Z.36",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.107",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.108",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.207",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.208",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.307",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.308",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.401",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.402",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.403",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.404",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.405",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.406",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.407",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.408",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.501",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.502",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.503",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.504",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.505",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.506",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.507",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "11.508",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.401",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.402",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.403",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.404",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.405",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.406",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.501",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.502",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.503",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.504",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.505",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "6",
+      "room_no": "12.506",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/107",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/108",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/207",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/208",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/307",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/308",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/401",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/402",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/403",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/404",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/405",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/406",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/407",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/408",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/501",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/502",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/503",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/504",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/505",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/506",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/507",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/508",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/601",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/602",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/603",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/604",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/605",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/606",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/607",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "13/608",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/101",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/102",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/103",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/104",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/105",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/106",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/107",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/108",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/201",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/202",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/203",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/204",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/205",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/206",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/207",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/208",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/301",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/302",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/303",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/304",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/305",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/306",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/307",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/308",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/401",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/402",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/403",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/404",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/405",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/406",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/407",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/408",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/501",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/502",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/503",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/504",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/505",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/506",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/507",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/508",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/601",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/602",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/603",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/604",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/605",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/606",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/607",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/608",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/701",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/702",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/703",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/704",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/705",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/706",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/707",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "7",
+      "room_no": "14/708",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "2/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "2/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "2/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "2/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "2/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "2/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "2/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "2/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "3/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "3/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "3/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "3/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "3/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "3/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "3/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "3/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "4/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "4/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "4/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "4/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "4/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "4/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "4/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "4/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "5/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "5/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "5/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "5/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "5/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "5/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "5/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-15",
+      "room_no": "5/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "2/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "2/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "2/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "2/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "2/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "2/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "2/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "2/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "3/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "3/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "3/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "3/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "3/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "3/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "3/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "3/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "4/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "4/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "4/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "4/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "4/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "4/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "4/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "4/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "5/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "5/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "5/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "5/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "5/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "5/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "5/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-16",
+      "room_no": "5/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "2/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "2/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "2/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "2/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "2/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "2/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "2/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "2/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "3/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "3/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "3/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "3/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "3/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "3/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "3/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "3/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "4/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "4/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "4/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "4/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "4/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "4/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "4/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "4/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "5/1",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "5/2",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "5/3",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "5/4",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "5/5",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "5/6",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "5/7",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "8-17",
+      "room_no": "5/8",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "1/01",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "1/02",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "1/03",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "1/04",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "1/05",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "1/06",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "1/07",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "1/08",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "2/01",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "2/02",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "2/03",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "2/04",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "2/05",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "2/06",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "2/07",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-18",
+      "room_no": "2/08",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "1/01",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "1/02",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "1/03",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "1/04",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "1/05",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "1/06",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "1/07",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "1/08",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "2/01",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "2/02",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "2/03",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "2/04",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "2/05",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "2/06",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "2/07",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-19",
+      "room_no": "2/08",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "1/01",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "1/02",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "1/03",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "1/04",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "1/05",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "1/06",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "1/07",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "1/08",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "2/01",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "2/02",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "2/03",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "2/04",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "2/05",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "2/06",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "2/07",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-20",
+      "room_no": "2/08",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "1/01",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "1/02",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "1/03",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "1/04",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "1/05",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "1/06",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "1/07",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "1/08",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "2/01",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "2/02",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "2/03",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "2/04",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "2/05",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "2/06",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "2/07",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-21",
+      "room_no": "2/08",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/1/1",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/1/2",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/1/3",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/1/4",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/1/5",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/1/6",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/1/7",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/1/8",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/2/1",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/2/2",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/2/3",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/2/4",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/2/5",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/2/6",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/2/7",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-22",
+      "room_no": "22/2/8",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "1/1",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "1/2",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "1/3",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "1/4",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "1/5",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "1/6",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "1/7",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "1/8",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "2/1",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "2/2",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "2/3",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "2/4",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "2/5",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "2/6",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "2/7",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "2/8",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "3/1",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "3/2",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "3/3",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "3/4",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "3/5",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "3/6",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "3/7",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-23",
+      "room_no": "3/8",
+      "room_type": "flat_single",
+      "room_fee": 1800
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "201",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "202",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "203",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "204",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "205",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "206",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "207",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "208",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "209",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "210",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "211",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "212",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "213",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "214",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "301",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "302",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "303",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "304",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "305",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "306",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "307",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "308",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "309",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "310",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "311",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "312",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "313",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "314",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "401",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "402",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "403",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "404",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "405",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "406",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "407",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "408",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "409",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "410",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "411",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "412",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "413",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "414",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "501",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "502",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "503",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "504",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "505",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "506",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "507",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "508",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "509",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "510",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "511",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "512",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "513",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "501",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "502",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "503",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "504",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "505",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "506",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "507",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "508",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "509",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "510",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "511",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "512",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "513",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "514",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "601",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "602",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "603",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "604",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "605",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "606",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "607",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "608",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "609",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "610",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "611",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "612",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "613",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "601",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "602",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "603",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "604",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "605",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "606",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "607",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "608",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "609",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "610",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "611",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "612",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "613",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "614",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "701",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "702",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "703",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "704",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "705",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "706",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "707",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "708",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "709",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "710",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "711",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "712",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "713",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "714",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "801",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "802",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "803",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "804",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "805",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "806",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "807",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "808",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "809",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "810",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "811",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "812",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "813",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "9-24",
+      "room_no": "814",
+      "room_type": "flat_family",
+      "room_fee": 2500
+    },
+    {
+      "building_no": "G.1/1",
+      "room_no": "3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "G.1/4",
+      "room_no": "6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "G.2/1",
+      "room_no": "3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "G.2/4",
+      "room_no": "6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "G.3/1",
+      "room_no": "3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "G.3/4",
+      "room_no": "6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "G.4 หอพัก 15",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "G.4/1",
+      "room_no": "3",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "G.4/4",
+      "room_no": "6",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "เชิงเขา1",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "เชิงเขา2",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "เชิงเขา3",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "เชิงเขา4",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "เชิงเขา5",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "เชิงเขา6",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "เชิงเขา7",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "เชิงเขา8",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "บ้านพัก  7/1",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "บ้านพัก  7/2",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "บ้านพัก 5/21",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "บ้านพัก ช.1",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "บ้านพัก ช.2",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "บ้านพัก ช.3",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "บ้านพัก ช.4",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "บ้านพัก ช.5",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "บ้านหลังเขา",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "อนุศาสก 1",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "อนุศาสก 2",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "อนุศาสก 3",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "อนุศาสก 4",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    },
+    {
+      "building_no": "อนุศาสก 5",
+      "room_no": "",
+      "room_type": "home_family",
+      "room_fee": 3500
+    }
+  ]
+}
